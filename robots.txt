@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.tangduyi.cn/sitemap.xml
